@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<wreath>
+  <variables>
+    <title lang="en">wreath1.17.18</title>
+    <dlink>https://images.pexels.com/photos/705425/pexels-photo-705425.jpeg</dlink>
+    <dpage>https://www.pexels.com/@enricoperini</dpage>
+    <dartist>Enrico Perini</dartist>
+    <dtitle>Photography of Road at Nighttime</dtitle>
+    <dvalue>10</dvalue>
+    <llink>https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg</llink>
+    <lpage>https://www.pexels.com/@todd-trapani-488382</lpage>
+    <lartist>todd-trapani</lartist>
+    <ltitle>Lighthouse During Golden Hour</ltitle>
+    <lvalue>10</lvalue>
+  </variables>
+</wreath>
