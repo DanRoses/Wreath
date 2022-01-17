@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<wreath>
+  <variables>
+    <title lang="en">wreath1.17.18</title>
+    <dlink>http://images.pexels.com/photos/2411688/pexels-photo-2411688.jpeg</dlink>
+    <dpage>http://www.pexels.com/@enricoperini</dpage>
+    <dartist>Aleksandar Pasaric</dartist>
+    <dtitle>Urban Photo of an Alley</dtitle>
+    <dvalue>0</dvalue>
+    <llink>http://images.pexels.com/photos/9204812/pexels-photo-9204812.jpeg</llink>
+    <lpage>http://www.pexels.com/@dinnow-86001860</lpage>
+    <lartist>Dinnow</lartist>
+    <ltitle>Person in White Dress Lying on White Sand</ltitle>
+    <lvalue>0</lvalue>
+    <bvalue>15</bvalue>
+  </variables>
+</wreath>
